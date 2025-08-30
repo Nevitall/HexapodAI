@@ -1,6 +1,7 @@
 # ⚙️ Pololu Mini Maestro 24-Channel USB Servo Controller
 
 ![Pololu Maestro 24](doc/img/maestro.jpg)
+![Raspberry Pi 5](/doc/img/Raspberry_pi5.jpg)
 
 ## 📖 Описание
 Pololu Mini Maestro 24 — это контроллер для управления сервоприводами.  
