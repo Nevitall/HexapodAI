@@ -37,7 +37,7 @@ Raspberry Pi 5 — это основной вычислительный блок
 
   # ⚙️ Pololu Mini Maestro 24-Channel USB Servo Controller
 
-![Pololu Maestro 24](docs/img/maestro.jpg)
+![Pololu Maestro 24](doc/img/maestro.jpg)
 
 ## 📖 Описание
 Pololu Mini Maestro 24 — это контроллер для управления сервоприводами.  
