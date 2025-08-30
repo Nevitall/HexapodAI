@@ -12,7 +12,7 @@
 
 # 🖥 Raspberry Pi 5 (в корпусе Argon One V3)
 
-![Raspberry Pi 5](docs/img/raspberry_pi5.jpg)
+![Raspberry Pi 5](/doc/img/Raspberry_pi5.jpg)
 
 ## 📖 Описание
 Raspberry Pi 5 — это основной вычислительный блок робота-хексапода.  
