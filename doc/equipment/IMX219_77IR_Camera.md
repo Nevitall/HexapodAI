@@ -1,6 +1,6 @@
 # 📷 Waveshare IMX219-77IR Camera (с ИК-подсветкой)
 
-![Waveshare IMX219-77IR](doc/img/waveshare_imx219_77ir.jpg)
+![Waveshare IMX219-77IR](/doc/img/waveshare_imx219_77ir.jpg)
 
 ## 📖 Описание
 Модуль камеры Waveshare IMX219-77IR — это камера для Raspberry Pi с двумя ИК-подсветками и углом обзора 77°.  
