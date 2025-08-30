@@ -5,14 +5,14 @@
 2. Интегрироваться с умным домом через Home Assistant — чтобы робот мог взаимодействовать с сенсорами и устройствами (например, как «ходячий ассистент»).
 3. Быть платформой для экспериментов: компьютерное зрение, голосовое управление, навигация по квартире, использование датчиков.
 
-Железо:
-Raspberry Pi 5 (в корпусе Argon One V3)
-Pololu Mini Maestro 24-Channel USB Servo Controller
-MPU-6050 / MPU-6500 (Акселерометр + Гироскоп)
-ReSpeaker 2-Mic HAT (Seeed Studio)
-YDLIDAR X4 PRO
-Li-Po аккумулятор VANT 7.4V 7600 mAh
-Цифровой сервопривод DS3235 (35 кг·см)
-Датчик BME680 (Температура, Влажность, Давление, VOC)
-Waveshare IMX219-77IR Camera (с ИК-подсветкой)
-Динамики 8 Ω / 2 Вт (прямоугольные)
+Железо:<br>
+Raspberry Pi 5 (в корпусе Argon One V3)<br>
+Pololu Mini Maestro 24-Channel USB Servo Controller<br>
+MPU-6050 / MPU-6500 (Акселерометр + Гироскоп)<br>
+ReSpeaker 2-Mic HAT (Seeed Studio)<br>
+YDLIDAR X4 PRO<br>
+Li-Po аккумулятор VANT 7.4V 7600 mAh<br>
+Цифровой сервопривод DS3235 (35 кг·см)<br>
+Датчик BME680 (Температура, Влажность, Давление, VOC)<br>
+Waveshare IMX219-77IR Camera (с ИК-подсветкой)<br>
+Динамики 8 Ω / 2 Вт (прямоугольные)<br>
