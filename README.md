@@ -137,7 +137,7 @@ ReSpeaker 2-Mic HAT — это аудиомодуль на базе чипа XMO
 - Озвучивание действий робота (например: *«Двигаюсь вперёд»*, *«Заряди меня»*)  
 - Возможность интеграции с Home Assistant для озвучки событий умного дома  
 
-  # 📡 YDLIDAR X4 PRO
+# 📡 YDLIDAR X4 PRO
 
 ![YDLIDAR X4 PRO](doc/img/lidar_x4pro.jpg)
 
