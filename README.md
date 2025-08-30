@@ -23,13 +23,15 @@ Raspberry Pi 5 — это основной вычислительный блок
 - Питание через фирменный блок питания 27 Вт USB-C
 - Активное охлаждение (встроенный вентилятор и радиатор в корпусе)
 
+---
+
 ## Роль в роботе
 - Управляет движением лап через Pololu Maestro (USB)
 - Обрабатывает данные с датчиков (LIDAR, BME680, микрофон ReSpeaker)
 - Координирует работу походки и алгоритмов движения
 - Отвечает за интеграцию с умным домом (Home Assistant, MQTT, Telegram Bot, Алиса)
 
-  # ⚙️ Pololu Mini Maestro 24-Channel USB Servo Controller
+# ⚙️ Pololu Mini Maestro 24-Channel USB Servo Controller
 
 ![Pololu Maestro 24](doc/img/maestro.jpg)
 
